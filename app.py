@@ -4,7 +4,7 @@ import requests
 app = Flask(__name__)
 
 # API bilgileri
-API_KEY = "APIKEY" # API Key - getcody.ai
+API_KEY = "API_KEY" # API Key - getcody.ai
 API_URL_CONVERSATIONS = "https://getcody.ai/api/v1/conversations"
 API_URL_MESSAGES = "https://getcody.ai/api/v1/messages"
 BOT_ID = "BOT_ID"  # Bot ID'si

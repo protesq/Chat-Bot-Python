@@ -17,8 +17,8 @@ Aşağıdaki yazılımların yüklü olduğundan emin olun:
 
 1. **Depoyu klonlayın:**
    ```bash
-   git clone https://github.com/protesq/chat-bot-python.git
-   cd <repo-adi>
+   git clone https://github.com/protesq/Chat-Bot-Python.git
+   cd Chat-Bot-Python
    ```
 
 2. **Gerekli Python paketlerini yükleyin:**
@@ -72,9 +72,6 @@ Güvenliğinizi sağlamak için, API bilgilerinizi `app.py` dosyasına sabit kod
 
 ## 🤝 Katkı Sağlama
 Katkılarınız memnuniyetle karşılanır! Hatalar veya yeni özellik istekleri için bir issue oluşturabilir veya pull request gönderebilirsiniz.
-
-## 📜 Lisans
-Bu proje MIT Lisansı altında lisanslanmıştır. Detaylar için LICENSE dosyasını inceleyin.
 
 ---
 Proje hakkında daha fazla bilgi veya soru için [GitHub profilime](https://github.com/protesq) göz atabilirsiniz!
